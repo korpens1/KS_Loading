@@ -41,7 +41,7 @@ Latest version: [Download here](https://github.com/korpens1/KS_Loading/releases/
 
 ## Configuration
 
-The configuration can be found in the KS Studi documentation.
+The configuration can be found in the KS Studi0 documentation.
 
 Docs: [Click here](https://ks-code.mintlify.app/gh/ks_loading)
 
