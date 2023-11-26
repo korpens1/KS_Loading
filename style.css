@@ -14,8 +14,9 @@
 :root {
     --background-contrast: 95%;
     --background-blur: 3px;
-    --loadingbar-color: #ffffff5b;
-    --loadingbar-progress-color: #0000009f;
+    --loadingbar-color: #636363dc;
+    --loadingbar-color-border: #ffa000;
+    --loadingbar-progress-color: #1c1c1cd2;
     --loadingbar-height: 27px;
     --footer-font-color: #ffffff;
     --footer-font-size: 24px;
@@ -46,6 +47,7 @@ body {
     border-radius: 25px;
     width: 98%;
     background-color: var(--loadingbar-color);
+    border: solid 3px var(--loadingbar-color-border);
     height: var(--loadingbar-height);
     box-shadow: 0px 8px 10px 0px rgba(0, 0, 0, 0.2), 0 6px 12px 0 rgba(0, 0, 0, 0.19);
     margin-left: 2px;

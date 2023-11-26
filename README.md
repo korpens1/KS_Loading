@@ -1,7 +1,7 @@
 KS Loading Screen
 ====================================================================================================================================
 
-Loading screen for FiveM, based on Polish trucker server [vpet.pl](https://vpet.pl)
+Loading screen for FiveM, based on Polish trucker server [vpet.pl](https://vpet.pl).
 ------------------------------------------------------------------
 
 <h1 align="center">
@@ -19,7 +19,7 @@ Loading screen for FiveM, based on Polish trucker server [vpet.pl](https://vpet.
   <a href="#support-me">Support Me</a>
 </p>
 
-![screenshot](https://korpens.kezrp.pl/cdn/chrome_WVUMSI9sN2.jpg)
+![screenshot](https://korpens.kezrp.pl/cdn/chrome_gJ5r8jIqOD.jpg)
 
 ## Features
 

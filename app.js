@@ -11,7 +11,7 @@
 
 var musicVol = config.musicVolume;
 
-document.getElementById('link').innerHTML = config.text.link;
+document.getElementById('link').innerHTML = config.text.title;
 var audio = `<div data-video=${config.videoID} data-autoplay="1" data-loop="1" id="youtube-audio"> </div>`;
 if (config.music === true) { 
  $("body").append(audio);

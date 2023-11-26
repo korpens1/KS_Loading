@@ -17,8 +17,7 @@ var config = {
     /* Music Volume (0%-100%)*/
     "musicVolume": 15,
     "text": {
-        "title": "vPET",
-        "link": "vPET.pl",
+        "title": "KS Studio",
     },
     /* Image names without dir '/cdn/' You must add same files in fxmanifest.lua*/ 
     "images": [
